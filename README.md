@@ -9,70 +9,185 @@
     <summary><h1 style="display: inline-block">Hi 👋, I'm Abdulla Sahed</h1></summary>
     <!--- typo --->
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&width=500&lines=Trainee+@Matsuo+Iwasawa+Lab;Passionate+Full+Stack+Web+Developer;JavaScript+Enthusiast;Interested+in+Data+Science" alt="Typing SVG" /></a>
-  </ul>
-</div>
-
-<br/>
-
-<!--- about --->
-- 👋 Hi, **[@IamSahedRana](https://github.com/IamSahedRana)**
-- 🖥️ I’m currently working on **React.js, Next.js, Typescript and Redux** for frontend development.
-- 🗄️ Using **Node.js, Express.js, MongoDB, Mongoose, PostgreSQL, and Prisma** for the backend.
-- 🛠️ I’m currently learning **React Native, GraphQL, Docker and AWS**.
-- 💬 Ask me about **Full-Stack (React, Next, Node, Express, MongoDB, PostgreSQL)**.
-- 🌐 Explore My Portfolio **[IamSahedRana](https://www.vercel.app/)** and My **[Resume](https://drive.google.com/)**
-- 📝 I regularly write articles on **[LinkedIn](https://www.linkedin.com/in/abdullasahed/)**
-- 📫 Feel free to reach me out **[Email](iamsahedrana@gmail.com)**
   
-<br/>
 
-<!--- socials --->
-## <img src="https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp" width="35"><b> FOLLOW ME ON SOCIALS:</b>
-
-<div>
-  <p align="left">
-    <a href="https://www.linkedin.com/in/abdullasahed/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="sahed" height="30" width="40" /></a>
-    <a href="https://discord.gg/sahedvmc" target="blank"><img src="https://skillicons.dev/icons?i=discord" alt="random" height="30" width="40" /></a>
-    <a href="https://dev.to/" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="new" height="30" width="40" /></a>
-    <a href="https://stackoverflow.com/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22104988" height="30" width="40" /></a>
-  </p>
+  <!-- Profile Badges -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=IamSahedRana&style=for-the-badge&color=10B981&label=PROFILE+VIEWS" alt="Profile Views" />
+  <a href="https://github.com/IamSahedRana?tab=followers">
+    <img src="https://img.shields.io/github/followers/IamSahedRana?style=for-the-badge&color=10B981&labelColor=0d1117&logo=github" alt="Followers" />
+  </a>
+</p>
+</ul>
 </div>
 
 <br/>
 
-<!--- technology --->
-##  <img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width ="35"><b> TECHNOLOGY STACK:</b>
+## About Me
 
-### Languages:
-[![Languages](https://skillicons.dev/icons?i=html,css,javascript,typescript,graphql,py)](https://github.com/IamSahedRana)
+<p>
+  <b>Web Developer</b> focused on building clean, responsive, and user-friendly web interfaces. Currently progressing toward <b>MERN Full-Stack Development</b>, with hands-on learning in <b>HTML, CSS, Tailwind CSS, JavaScript, TypeScript, and React</b>. I enjoy turning ideas into practical web projects while continuously improving my problem-solving, UI development, and software engineering skills.
+</p>
 
-### CSS Frameworks & Libraries:
-[![CSS Frameworks & Libraries](https://skillicons.dev/icons?i=tailwind,materialui,bootstrap)](https://github.com/IamSahedRana)
-
-### JavaScript Frameworks & Libraries:
-[![JavaScript Frameworks & Libraries](https://skillicons.dev/icons?i=react,next,redux,nodejs,express)](https://github.com/IamSahedRana)
-
-### Database & Model:
-[![Database & Model](https://skillicons.dev/icons?i=mongodb,mysql,postgres,prisma,supabase)](https://github.com/IamSahedRana)
-
-### Deployment Platform:
-[![Deployment Platform](https://skillicons.dev/icons?i=vercel,netlify,firebase)](https://github.com/IamSahedRana)
-
-### Design & Graphics:
-[![Design & Graphics](https://skillicons.dev/icons?i=figma,ai,ps)](https://github.com/IamSahedRana)
-
-### Tools & Technologies:
-[![Tools & Technologies](https://skillicons.dev/icons?i=windows,ubuntu,notion,git,github,vscode,postman,docker)](https://github.com/IamSahedRana)
+<table border="2">
+  <tr>
+    <th>Location</th>
+    <th>Experience</th>
+    <th>Current Focus</th>
+    <th>Availability</th>
+  </tr>
+  <tr>
+    <td><b>Dhaka, Bangladesh</b></td>
+    <td><b>Learning & Building Projects</b></td>
+    <td><b>React, TypeScript & MERN</b></td>
+    <td><b>Open to Opportunities</b></td>
+  </tr>
+</table>
 
 <br/>
 
 
+## 🛠️ Technologies & Tools
 
-<!--- random quote --->
-##  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width ="30"><b> RANDOM DEV QUOTE:</b>
-<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=light"/>
+### Languages
+
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%23000000.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Currently Exploring
+
+![React](https://img.shields.io/badge/React-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338BDF8.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-%233ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white)
+
+### Development & Deployment
+
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=%2300C7B7)
+
+### Design
+
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 ---
 
-<!--- visit count --->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imasahedrana&label=Profile%20views&color=0e75b6&style=flat" alt="touhidcodes" /> </p>
+## 🎯 What I'm Working On
+
+<div align="center">
+
+<table border="2">
+<tr>
+
+<td width="33%" align="center" valign="top">
+
+<h3>🌐 Web Development</h3>
+
+<p>
+Building clean and responsive web interfaces using HTML, CSS, Tailwind CSS, JavaScript, TypeScript and React.
+</p>
+
+</td>
+
+<td width="33%" align="center" valign="top">
+
+<h3>⚛️ React & TypeScript</h3>
+
+<p>
+Learning React with TypeScript and building reusable components while improving my frontend development skills.
+</p>
+
+</td>
+
+<td width="33%" align="center" valign="top">
+
+<h3>🚀 Full-Stack Development</h3>
+
+<p>
+Working toward MERN Full-Stack Development by learning Node.js, Express, MongoDB and building real-world projects.
+</p>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+<!--
+---
+
+## 🚀 Projects
+
+> Projects will be added here as I build and improve them.
+
+
+### Project Name
+Short description of the project.
+
+[Live Demo](#) • [Repository](#)
+-->
+
+---
+
+## 🌐 Connect with Me
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](http://www.vercel.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullasahed/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iamsahedrana@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/IamSahedRana)
+
+---
+
+<div align="center">
+
+## 📊 GitHub Stats
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=iamsahedrana&label=Profile%20views&color=0e75b6&style=flat" alt="rana" /> </p>
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=IamSahedRana&rank_icon=github&show_icons=true&include_all_commits=true&theme=transparent" height="165"/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=IamSahedRana&theme=transparent&hide_border=false&include_all_commits=false&count_private=true&layout=compact" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=IamSahedRana&theme=transparent&hide_border=false&timezone=Asia/Dhaka" alt="GitHub streak stats"/>
+</p>
+
+---
+
+<!-- ## 🐍 GitHub Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IamSahedRana/IamSahedRana/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IamSahedRana/IamSahedRana/output/github-snake.svg">
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/IamSahedRana/IamSahedRana/output/github-snake.svg">
+</picture>
+
+--- -->
+
+*"Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program." — Linus Torvalds* 💻
+
+**Open to collaboration, feedback, and interesting project ideas.**
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0F1E,50:2563EB,100:0A0F1E&height=120&section=footer" width="100%"/>
+
+</div>
+
+
+
