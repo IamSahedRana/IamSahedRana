@@ -1,6 +1,4 @@
-from pathlib import Path
-
-content = r'''<!--- banner --->
+<!--- banner --->
 
 <img src="./IamSahedRana/banner.png" alt="Hello world">
 
@@ -63,89 +61,56 @@ content = r'''<!--- banner --->
 
 <br/>
 
-## 🛠️ Technologies & Tools
+## 🧰 TECHNOLOGY STACK
 
-### Languages
+**Languages:**
 
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,c" />
+</p>
 
-![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+**Frontend:**
 
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+</p>
 
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+**Backend:**
 
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+**Database:**
 
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+</p>
 
-![SQL](https://img.shields.io/badge/SQL-%23000000.svg?style=for-the-badge&logo=mysql&logoColor=white)
+**Auth, Payments & Testing:**
 
-### Currently Exploring
+<p>
+  <img src="https://img.shields.io/badge/BetterAuth-1F2A44?style=for-the-badge&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/SSLCommerz-FF6600?style=for-the-badge&logoColor=white"/>
+</p>
 
-![React](https://img.shields.io/badge/React-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+**Tools & Platforms:**
 
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338BDF8.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,netlify" />
+</p>
 
-![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+**AI & Development:**
 
-![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/AI%20Assisted%20Coding-2E5C8A?style=for-the-badge&logo=openai&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/AI%20Integration-1F2A44?style=for-the-badge&logo=anthropic&logoColor=white"/>
+</p>
 
-![Supabase](https://img.shields.io/badge/Supabase-%233ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white)
-
-### Development & Deployment
-
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-
-![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=%2300C7B7)
-
-### Design
-
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-
----
-
-## 🎯 What I'm Working On
-
-<div align="center">
-
-<table border="2">
-<tr>
-<td width="33%" align="center" valign="top">
-
-<h3>🌐 Web Development</h3>
-
-<p>Building clean and responsive web interfaces using HTML, CSS, Tailwind CSS, JavaScript, TypeScript and React.</p>
-
-</td>
-<td width="33%" align="center" valign="top">
-
-<h3>⚛️ React & TypeScript</h3>
-
-<p>Learning React with TypeScript and building reusable components while improving my frontend development skills.</p>
-
-</td>
-<td width="33%" align="center" valign="top">
-
-<h3>🚀 Full-Stack Development</h3>
-
-<p>Working toward MERN Full-Stack Development by learning Node.js, Express, MongoDB and building real-world projects.</p>
-
-</td>
-</tr>
-</table>
-
-</div>
 
 ## 🚀 Featured Projects
 
