@@ -1,8 +1,3 @@
-<!--- banner --->
-
-<img src="./IamSahedRana/banner.png" alt="Hello world">
-
-<br/>
 
 <!--- title --->
 
