@@ -196,31 +196,7 @@ Next.js, React, TypeScript, Tailwind CSS, Zustand
 
 
 
-<div align="center">
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=iamsahedrana&label=Profile%20views&color=0e75b6&style=flat" alt="GitHub profile views" />
-
-</p>
-
-<p align="center">
-
-<img src="https://github-stats-extended.vercel.app/api?username=IamSahedRana&rank_icon=github&show_icons=true&include_all_commits=true&theme=transparent" height="165" alt="GitHub stats" />
-
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=IamSahedRana&theme=transparent&hide_border=false&include_all_commits=false&count_private=true&layout=compact" height="165" alt="Top languages" />
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com/?user=IamSahedRana&theme=transparent&hide_border=false&timezone=Asia/Dhaka" alt="GitHub streak stats" />
-
-</p>
-
----
 
 <!-- GitHub Contributions
 
