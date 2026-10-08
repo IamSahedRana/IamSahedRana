@@ -33,13 +33,13 @@
 
 ## About Me
 
-<p>
+<p align="center">
 
 <b>Web Developer</b> focused on building clean, responsive, and user-friendly web interfaces. Currently progressing toward <b>MERN Full-Stack Development</b>, with hands-on learning in <b>HTML, CSS, Tailwind CSS, JavaScript, TypeScript, and React</b>. I enjoy turning ideas into practical web projects while continuously improving my problem-solving, UI development, and software engineering skills.
 
 </p>
 
-<table border="2">
+<table border="2" align="center">
 <tr>
 <th>Location</th>
 <th>Experience</th>
@@ -56,56 +56,93 @@
 
 <br/>
 
-## 🧰 TECHNOLOGY STACK
+<!-- 🛠️ Tech Stack & Skills -->
 
-**Languages:**
+<div align="center">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,c" />
-</p>
+<h2>🛠️ Tech Stack & Skills</h2>
 
-**Frontend:**
+<table border="1" cellpadding="12" cellspacing="0" width="580">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
-</p>
+<tr>
+<td width="50%" align="center">
 
-**Backend:**
+<h3>Web Development</h3>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,ts,react,nextjs,tailwindcss" />
 
-**Database:**
+</td>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb" />
-</p>
+<td width="50%" align="center">
 
-**Auth, Payments & Testing:**
+<h3>Programming & APIs</h3>
 
-<p>
-  <img src="https://img.shields.io/badge/BetterAuth-1F2A44?style=for-the-badge&logoColor=white"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/SSLCommerz-FF6600?style=for-the-badge&logoColor=white"/>
-</p>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=rust,api,ts" />
 
-**Tools & Platforms:**
+</td>
+</tr>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,netlify" />
-</p>
+<tr>
+<td width="50%" align="center">
 
-**AI & Development:**
+<h3>Backend & Database</h3>
 
-<p>
-  <img src="https://img.shields.io/badge/AI%20Assisted%20Coding-2E5C8A?style=for-the-badge&logo=openai&logoColor=white"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/AI%20Integration-1F2A44?style=for-the-badge&logo=anthropic&logoColor=white"/>
-</p>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,expressjs,firebase,supabase,postgresql,mongodb,redis" />
 
+</td>
+
+<td width="50%" align="center">
+
+<h3>UI/UX & Design</h3>
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=figma,photoshop,canva" />
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="center">
+
+<h3>Development Tools</h3>
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,gitlab,vscode,terminal,bash,npm,yarn" />
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center">
+
+<h3>DevOps & Cloud</h3>
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=docker,vercel,netlify,linux,windows" />
+
+</td>
+
+<td width="50%" align="center">
+
+<h3>Analytics & Web</h3>
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=googleanalytics,wordpress" />
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="center">
+
+<h3>AI & Productivity</h3>
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=chatgpt,claude,gemini,grok" />
+
+</td>
+</tr>
+
+</table>
+
+</div>
+
+<br/>
 
 ## 🚀 Featured Projects
 
@@ -193,7 +230,6 @@ Next.js, React, TypeScript, Tailwind CSS, Zustand
 </tr>
 
 </table>
-
 
 
 
