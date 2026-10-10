@@ -156,16 +156,46 @@
 
 <tr>
 <td>
-<a href="https://github.com/IamSahedRana/DEV-CONFERENCE-SITE">🎤 Dev Conference Site</a>
+<a href="https://github.com/IamSahedRana/BanglaNews24">📰 Bangla News 24</a>
 </td>
 <td>
-A modern DevConf 2026 conference landing page featuring speakers, pricing plans, a hackathon section, sponsors, and a responsive UI.
+A Bangla news website for browsing news and staying updated on current events.
 </td>
 <td>
-HTML5, CSS3, Flexbox, CSS Grid
+HTML5, CSS3, JavaScript
 </td>
 <td>
-<a href="https://iamsahedrana.github.io/DEV-CONFERENCE-SITE/">🔗 Live Demo</a>
+<a href="https://bangla-news24.vercel.app/">🔗 Live Demo</a>
+</td>
+</tr>
+
+<tr>
+<td>
+<a href="https://github.com/IamSahedRana/BazarDor">🛒 BazarDor</a>
+</td>
+<td>
+A web application for exploring market prices and comparing everyday product costs.
+</td>
+<td>
+React, TypeScript, Tailwind CSS
+</td>
+<td>
+<a href="YOUR_BAZARDOR_LIVE_DEMO_URL">🔗 Live Demo</a>
+</td>
+</tr>
+
+<tr>
+<td>
+<a href="https://github.com/IamSahedRana/BookVibeSite">📚 Book Vibe</a>
+</td>
+<td>
+A modern book management application for exploring books, organizing Read and Wishlist collections, and tracking reading progress.
+</td>
+<td>
+Next.js, TypeScript, Tailwind CSS, DaisyUI, Recharts
+</td>
+<td>
+<a href="https://book-vibe-site.vercel.app/">🔗 Live Demo</a>
 </td>
 </tr>
 
@@ -186,6 +216,21 @@ React, TypeScript, Vite, REST API, Tailwind CSS
 
 <tr>
 <td>
+<a href="https://github.com/IamSahedRana/DEV-CONFERENCE-SITE">🎤 Dev Conference Site</a>
+</td>
+<td>
+A modern DevConf 2026 conference landing page featuring speakers, pricing plans, a hackathon section, sponsors, and a responsive UI.
+</td>
+<td>
+HTML5, CSS3, Flexbox, CSS Grid
+</td>
+<td>
+<a href="https://iamsahedrana.github.io/DEV-CONFERENCE-SITE/">🔗 Live Demo</a>
+</td>
+</tr>
+
+<tr>
+<td>
 <a href="https://github.com/IamSahedRana/DevStack">🧱 Dev Stack Builder</a>
 </td>
 <td>
@@ -196,21 +241,6 @@ React, TypeScript, Tailwind CSS, DaisyUI, Context API, React-Toastify
 </td>
 <td>
 <a href="https://devstack-iamsahedrana.netlify.app/">🔗 Live Demo</a>
-</td>
-</tr>
-
-<tr>
-<td>
-<a href="https://github.com/IamSahedRana/BookVibeSite">📚 Book Vibe</a>
-</td>
-<td>
-A modern book management application for exploring books, organizing Read and Wishlist collections, and tracking reading progress.
-</td>
-<td>
-Next.js, TypeScript, Tailwind CSS, DaisyUI, Recharts
-</td>
-<td>
-<a href="https://book-vibe-site.vercel.app/">🔗 Live Demo</a>
 </td>
 </tr>
 
