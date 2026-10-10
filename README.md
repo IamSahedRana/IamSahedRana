@@ -144,122 +144,116 @@
 
 <br/>
 
+
 ## 🚀 Featured Projects
 
 <table border="1" cellpadding="10" cellspacing="0" width="100%">
-<tr>
-<th>Project</th>
-<th>Description</th>
-<th>Key Technologies</th>
-<th>Live Demo</th>
-</tr>
-
-<tr>
-<td>
-<a href="https://github.com/IamSahedRana/BanglaNews24">📰 Bangla News 24</a>
-</td>
-<td>
-A Bangla news website for browsing news and staying updated on current events.
-</td>
-<td>
-HTML5, CSS3, JavaScript
-</td>
-<td>
-<a href="https://bangla-news24.vercel.app/">🔗 Live Demo</a>
-</td>
-</tr>
-
-<tr>
-<td>
-<a href="https://github.com/IamSahedRana/BazarDor">🛒 BazarDor</a>
-</td>
-<td>
-A web application for exploring market prices and comparing everyday product costs.
-</td>
-<td>
-React, TypeScript, Tailwind CSS
-</td>
-<td>
-<a href="YOUR_BAZARDOR_LIVE_DEMO_URL">🔗 Live Demo</a>
-</td>
-</tr>
-
-<tr>
-<td>
-<a href="https://github.com/IamSahedRana/BookVibeSite">📚 Book Vibe</a>
-</td>
-<td>
-A modern book management application for exploring books, organizing Read and Wishlist collections, and tracking reading progress.
-</td>
-<td>
-Next.js, TypeScript, Tailwind CSS, DaisyUI, Recharts
-</td>
-<td>
-<a href="https://book-vibe-site.vercel.app/">🔗 Live Demo</a>
-</td>
-</tr>
-
-<tr>
-<td>
-<a href="https://github.com/IamSahedRana/CountriesExplorer">🌍 Countries Explorer</a>
-</td>
-<td>
-A React and TypeScript web application for exploring countries, viewing country information, and tracking visited countries.
-</td>
-<td>
-React, TypeScript, Vite, REST API, Tailwind CSS
-</td>
-<td>
-<a href="https://countries-explorer-iamsahedrana.netlify.app/">🔗 Live Demo</a>
-</td>
-</tr>
-
-<tr>
-<td>
-<a href="https://github.com/IamSahedRana/DEV-CONFERENCE-SITE">🎤 Dev Conference Site</a>
-</td>
-<td>
-A modern DevConf 2026 conference landing page featuring speakers, pricing plans, a hackathon section, sponsors, and a responsive UI.
-</td>
-<td>
-HTML5, CSS3, Flexbox, CSS Grid
-</td>
-<td>
-<a href="https://iamsahedrana.github.io/DEV-CONFERENCE-SITE/">🔗 Live Demo</a>
-</td>
-</tr>
-
-<tr>
-<td>
-<a href="https://github.com/IamSahedRana/DevStack">🧱 Dev Stack Builder</a>
-</td>
-<td>
-A modern web application for exploring technologies and building a personalized developer stack using Context API.
-</td>
-<td>
-React, TypeScript, Tailwind CSS, DaisyUI, Context API, React-Toastify
-</td>
-<td>
-<a href="https://devstack-iamsahedrana.netlify.app/">🔗 Live Demo</a>
-</td>
-</tr>
-
-<tr>
-<td>
-<a href="https://github.com/IamSahedRana/FitLog">💪 FitLog</a>
-</td>
-<td>
-A frontend workout tracker for exploring workouts, creating daily plans, saving exercises, and tracking workout routines.
-</td>
-<td>
-Next.js, React, TypeScript, Tailwind CSS, Zustand
-</td>
-<td>
-<a href="https://fitlog-iamsahedrana.vercel.app/">🔗 Live Demo</a>
-</td>
-</tr>
-
+  <tr>
+    <th>Project</th>
+    <th>Description</th>
+    <th>Key Technologies</th>
+    <th>Live Demo</th>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/IamSahedRana/BanglaNews24">📰 Bangla News 24</a>
+    </td>
+    <td>
+      A Bangla news website for browsing news and staying updated on current events.
+    </td>
+    <td>
+      Next.js 16, React 19, TypeScript, Tailwind CSS 4, DaisyUI 5, Better Auth, MongoDB, React Hot Toast
+    </td>
+    <td>
+      <a href="https://bangla-news24-orcin.vercel.app/">🔗 Live Demo</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/IamSahedRana/BazarDor">🛒 BazarDor</a>
+    </td>
+    <td>
+      A web application for exploring market prices and comparing everyday product costs.
+    </td>
+    <td>
+      Next.js 16, React 19, TypeScript, Tailwind CSS 4, DaisyUI 5, Better Auth, MongoDB, React Hot Toast, React Marquee Text
+    </td>
+    <td>
+      <a href="https://bazar-dor-blush.vercel.app/">🔗 Live Demo</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/IamSahedRana/BookVibeSite">📚 Book Vibe</a>
+    </td>
+    <td>
+      A modern book management application for exploring books, organizing Read and Wishlist collections, and tracking reading progress.
+    </td>
+    <td>
+      Next.js, TypeScript, Tailwind CSS, DaisyUI, Recharts
+    </td>
+    <td>
+      <a href="https://book-vibe-site.vercel.app/">🔗 Live Demo</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/IamSahedRana/CountriesExplorer">🌍 Countries Explorer</a>
+    </td>
+    <td>
+      A React and TypeScript web application for exploring countries, viewing country information, and tracking visited countries.
+    </td>
+    <td>
+      React, TypeScript, Vite, REST API, Tailwind CSS
+    </td>
+    <td>
+      <a href="https://countries-explorer-iamsahedrana.netlify.app/">🔗 Live Demo</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/IamSahedRana/DEV-CONFERENCE-SITE">🎤 Dev Conference Site</a>
+    </td>
+    <td>
+      A modern DevConf 2026 conference landing page featuring speakers, pricing plans, a hackathon section, sponsors, and a responsive UI.
+    </td>
+    <td>
+      HTML5, CSS3, Flexbox, CSS Grid
+    </td>
+    <td>
+      <a href="https://iamsahedrana.github.io/DEV-CONFERENCE-SITE/">🔗 Live Demo</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/IamSahedRana/DevStack">🧱 Dev Stack Builder</a>
+    </td>
+    <td>
+      A modern web application for exploring technologies and building a personalized developer stack using Context API.
+    </td>
+    <td>
+      React, TypeScript, Tailwind CSS, DaisyUI, Context API, React-Toastify
+    </td>
+    <td>
+      <a href="https://devstack-iamsahedrana.netlify.app/">🔗 Live Demo</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/IamSahedRana/FitLog">💪 FitLog</a>
+    </td>
+    <td>
+      A frontend workout tracker for exploring workouts, creating daily plans, saving exercises, and tracking workout routines.
+    </td>
+    <td>
+      Next.js, React, TypeScript, Tailwind CSS, Zustand
+    </td>
+    <td>
+      <a href="https://fitlog-iamsahedrana.vercel.app/">🔗 Live Demo</a>
+    </td>
+  </tr>
 </table>
+
 
 
 
